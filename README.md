@@ -1,7 +1,7 @@
 
 # 👗 Fashion MNIST CNN & Streamlit App
 
-![Project Structure Screenshot](<./Fashion CNN.png>)
+![Project Structure Screenshot](./fashion_cnn.png)
 
 ## 🔍 Overview
 
