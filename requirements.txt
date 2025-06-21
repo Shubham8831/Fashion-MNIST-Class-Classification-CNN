@@ -1,22 +1,22 @@
 # Core
 streamlit
 
-# Data & preprocessing
+# Data & Preprocessing
 numpy>=1.24
 pandas>=2.0
-Pillow>=11.0
+Pillow>=9.0
 
 # Modeling
 tensorflow==2.19.0
-scikit-learn>=1.7
+scikit-learn>=1.3.0
 
-# Visualization (optional, but handy for plotting)
+# Visualization (Optional)
 matplotlib>=3.6
 seaborn>=0.13
 
-# HTTP (if you fetch data or call APIs)
+# HTTP Requests
 requests>=2.30
 
 # Utilities
-python-dateutil
-tzdata
+python-dateutil>=2.8.2
+tzdata>=2022.1
