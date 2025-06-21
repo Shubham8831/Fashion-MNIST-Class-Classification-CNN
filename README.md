@@ -1,4 +1,4 @@
-````markdown
+
 # 👗 Fashion MNIST CNN & Streamlit App
 
 ![Project Structure Screenshot](<./Fashion CNN.png>)
